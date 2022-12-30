@@ -1,0 +1,39 @@
+.containerbody {
+  padding: 0 0 0 10%;
+}
+
+.text__container {
+  width: 50%;
+  margin: auto;
+  color: #fff;
+}
+
+.text__container h1 {
+  font-size: 10rem;
+  margin-bottom: 1rem;
+  font-family: Bellefair, serif;
+  color: #fff;
+}
+/* contenido en la parte inferior */
+.second__container{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 0;
+  display: flex;
+}
+
+.explore__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: auto;
+}
+
+.explore__container p {
+  font-size: 1.5rem;
+  font-family: Bellefair;
+}
